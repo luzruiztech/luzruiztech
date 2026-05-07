@@ -59,6 +59,7 @@ Passionate about support excellence, process automation, and the intersection of
 | Repo | Descripción | Tecnologías |
 |---|---|---|
 | [lab-spl-200-intro-amazon-ec2](https://github.com/luzruiztech/lab-spl-200-intro-amazon-ec2) | Launch, monitor, resize and terminate an EC2 instance | EC2, CloudWatch, Security Groups, EBS |
+| [DentiSalud](https://github.com/Luz-88/Proyecto-Final-CoderHouse_Luz_Ruiz) | Relational database system for dental clinic appointment management — triggers, stored procedures, roles & Docker | MySQL, Docker, Shell Scripting |
 | *(coming soon)* | Next AWS lab | AWS |
 
 ---
