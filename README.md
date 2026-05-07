@@ -91,7 +91,7 @@ Passionate about support excellence, process automation, and the intersection of
 
 ---
 
-*"Support is not just fixing problems — it's preventing them."* ☁️
+*"Support is not just fixing problems — it's preventing them."*
 
 ---
 
@@ -100,14 +100,14 @@ Passionate about support excellence, process automation, and the intersection of
 
 <br>
 
-# Hola, soy Luz Emily Ruiz 👋
+# Hola, soy Luz Emily Ruiz 
 ### Analista IT | Cloud Support Engineer en Formación | AWS | IA & Automatización
 
-📍 Buenos Aires, Argentina &nbsp;|&nbsp; 📧 lruizn.88@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/luzruizn)
+📍 Buenos Aires, Argentina &nbsp;|&nbsp; lruizn.88@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/luzruizn)
 
 ---
 
-## 👩‍💻 Sobre mí
+## Sobre mí
 
 Profesional IT con **más de 6 años de experiencia** en soporte técnico-funcional y análisis de sistemas, especializada en el sector sanitario (HIS/ERP). Actualmente en transición hacia **Cloud Computing** con foco en **AWS**, desarrollando habilidades prácticas a través de laboratorios, certificaciones y proyectos reales.
 
@@ -115,16 +115,16 @@ Apasionada por la excelencia en soporte, la automatización de procesos y la int
 
 ---
 
-## 🚀 Actualmente
+## Actualmente
 
-- ☁️ Estudiando **AWS** — camino a Cloud Practitioner y labs prácticos
-- 🤖 Desarrollando habilidades en **Cloud Support Engineering con IA/Automatización**
-- 🧪 Documentando laboratorios prácticos en este portfolio de GitHub
-- 🎯 Objetivo: **AWS Certified Cloud Practitioner → SysOps Administrator**
+-  Estudiando **AWS** — camino a Cloud Practitioner y labs prácticos
+-  Desarrollando habilidades en **Cloud Support Engineering con IA/Automatización**
+-  Documentando laboratorios prácticos en este portfolio de GitHub
+-  Objetivo: **AWS Certified Cloud Practitioner → SysOps Administrator**
 
 ---
 
-## 📂 Proyectos Destacados
+## Proyectos Destacados
 
 | Repo | Descripción | Tecnologías |
 |---|---|---|
@@ -134,17 +134,17 @@ Apasionada por la excelencia en soporte, la automatización de procesos y la int
 
 ---
 
-## 🏅 Certificaciones
+## Certificaciones
 
-- ☁️ **AWS Cloud Practitioner Essentials** — Amazon Web Services (Ene 2026)
-- ☁️ **AWS Technical Essentials** — Amazon Web Services (Feb 2026)
-- 🔌 **Postman API Fundamentals Student Expert** — Badgr (Feb 2025)
-- 🗄️ **Curso de SQL** — Coderhouse (Feb 2024)
-- 🔄 **Scrum Foundation Professional Certificate (SFPC)** — CertiProf (Sep 2021)
-- 📦 **Product Owner** — UTN FRBA (Jun 2021)
-- 🧪 **Testeador de Software** — UTN (2020)
-- 📊 **Analista Business Intelligence V2** — UTN (2020)
-- 🐍 **Python Esencial** — LinkedIn Learning (2021–2022)
+-  **AWS Cloud Practitioner Essentials** — Amazon Web Services (Ene 2026)
+-  **AWS Technical Essentials** — Amazon Web Services (Feb 2026)
+-  **Postman API Fundamentals Student Expert** — Badgr (Feb 2025)
+-  **Curso de SQL** — Coderhouse (Feb 2024)
+-  **Scrum Foundation Professional Certificate (SFPC)** — CertiProf (Sep 2021)
+-  **Product Owner** — UTN FRBA (Jun 2021)
+-  **Testeador de Software** — UTN (2020)
+-  **Analista Business Intelligence V2** — UTN (2020)
+-  **Python Esencial** — LinkedIn Learning (2021–2022)
 
 ---
 
@@ -155,6 +155,6 @@ Apasionada por la excelencia en soporte, la automatización de procesos y la int
 
 ---
 
-*"El soporte no es solo resolver problemas — es prevenirlos."* ☁️
+*"El soporte no es solo resolver problemas — es prevenirlos."* 
 
 </details>
