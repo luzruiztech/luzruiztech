@@ -78,12 +78,6 @@ Passionate about support excellence, process automation, and the intersection of
 
 ---
 
-## GitHub Stats
-
-![Luz's GitHub stats](https://github-readme-stats.vercel.app/api?username=luzruiztech&show_icons=true&theme=dark&hide_border=true)
-
----
-
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/luzruizn)
